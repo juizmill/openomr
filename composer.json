@@ -1,4 +1,5 @@
 {
+    "name": "juizmill/openomr",
     "require": {
         "php": ">=5.4"
     },
